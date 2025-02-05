@@ -15,4 +15,4 @@ This project is an image sharing website that allows you to make a profile and u
 
 This webpage is deployed to Github Pages
 
-- Link: https://dianac416.gitgub.io/se_project_spots
+- Link: https://dianac416.gitgub.io/se_project_spots/index.html
