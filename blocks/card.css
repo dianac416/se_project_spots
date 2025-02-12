@@ -11,10 +11,16 @@
 
 .card__title {
   font-family: Poppins, Arial, Helvetica, sans-serif;
+  font-color: #212121;
+  max-width:
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
+  max-width: 250px;
   margin: 0;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 .card__content {
@@ -52,4 +58,10 @@
     width: 20px;
     height: 18px;
   }
+
+  .card__title {
+    max-width: 250px;
+    font-size: 16px;
+  }
 }
+
