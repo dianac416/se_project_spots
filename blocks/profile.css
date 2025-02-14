@@ -52,20 +52,20 @@
   gap: 8px;
   color: #212121;
   font-weight: 500;
-  opacity: 80%;
+  opacity: 70%;
   border: none;
   background-color: transparent;
   align-self: start;
 }
 
 .profile__edit-btn:hover {
-  border: none;
   cursor: pointer;
   opacity: 1;
   transition-duration: 1s;
 }
 
 .profile__add-btn {
+  border: none;
   align-self: baseline;
   color: #fcf5e5;
   margin-top: 130px;

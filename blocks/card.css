@@ -11,8 +11,8 @@
 
 .card__title {
   font-family: Poppins, Arial, Helvetica, sans-serif;
-  font-color: #212121;
-  max-width:
+  color: #212121;
+  max-width: 350px;
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
@@ -64,4 +64,3 @@
     font-size: 16px;
   }
 }
-
